@@ -7,7 +7,7 @@ to send packets by UDP from client to server and create possibility of pasckets 
 ## Installation
 
 To clone this repository to your local device
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
 
 ```bash
 git clone https://github.com/Khaaaan/Assignment-1-Network-Programming.git
